@@ -1,0 +1,5 @@
+package com.example.building_a_responsive_dashboard_ui_app_with_flutter_step_by_step_tutorial_by_heyflutter_com
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity()
